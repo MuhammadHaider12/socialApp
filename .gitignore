@@ -1,0 +1,28 @@
+# Node dependencies
+backend/node_modules/
+frontend/node_modules/
+
+# Build outputs
+frontend/dist/
+
+# Uploads
+backend/uploads/
+
+# Logs
+*.log
+
+# Docker
+*.dockerignore
+Dockerfile
+docker-compose.yml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+
+# Misc
+.idea/
+.vscode/
